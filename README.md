@@ -1,1 +1,2 @@
-# fishbowl-scorekeeper-react
+# fishbowl-scorekeeper
+A scorekeeping application for Fishbowl

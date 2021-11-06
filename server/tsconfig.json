@@ -1,0 +1,12 @@
+{
+    "extends": "../tsconfig.json",
+    "compilerOptions": {
+        "outDir": "./public",
+        "module": "commonjs",
+        "allowJs": true,
+        "lib": ["es2015", "dom"],
+    },
+    "exclude": [
+        "public"
+    ]
+}
